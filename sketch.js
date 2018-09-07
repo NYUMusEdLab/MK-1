@@ -27,7 +27,7 @@ function preload() {
 	
 	keySymbols = ['\u2190', '\u2191','\u2193','\u2192','sp'];
 	noteNames = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
-	keyColors = ['white', 'black', 'white', 'black', 'white', 'white', 'black', 'white', 'black',
+	keyColors = ['red', 'black', 'white', 'black', 'white', 'white', 'black', 'white', 'black',
 		'white', 'black', 'white'];
 	
 	samplePresetAudio = [];
